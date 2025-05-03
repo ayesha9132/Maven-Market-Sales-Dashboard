@@ -41,10 +41,7 @@ To simulate real-world data analytics tasks by transforming raw sales and custom
 ## 📸 Topline Performance Dashboard
 
 
-```markdown
-![Maven Market Power BI Dashboard]([cover.png](https://github.com/ayesha9132/Maven-Market-Sales-Dashboard/blob/main/maven%20Dashboard.jpg))
-```
-
+![Maven Market Power BI Dashboard](maven%20Dashboard.jpg)
 ---
 
 ## 🔗 Project Outcomes
